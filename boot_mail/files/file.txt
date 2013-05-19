@@ -1,0 +1,16 @@
+################################################################  
+# 
+# Title: Email a webcam photo each day at 0815am.
+## Author: Andy Ibbitson 
+### Date: 05-04-2013
+#### Version 1.0
+### File 1: /home/pi/projects/boot_mail/daily_photo_email.sh
+## File 2: /home/pi/projects/boot_mail/mail_attach.py
+# Additional Folder : /home/pi/projects/boot_mail/files/
+#
+################################################################
+
+Crontab entry is:
+
+#15 8 * * /home/pi/projects/boot_mail/daily_photo_email.sh >/tmp/trace2.log 2>&1
+

@@ -1,0 +1,108 @@
+.:
+total 944
+drwxr-xr-x 2 pi pi   4096 Mar  6 23:07 tests
+drwxr-xr-x 2 pi pi   4096 Mar  7 13:29 wand
+drwxr-xr-x 3 pi pi   4096 Mar  7 18:04 Images
+drwxr-xr-x 2 pi pi   4096 Mar 11 19:41 sevenseg
+drwxr-xr-x 3 pi pi   4096 Apr  5 08:20 timelapse
+drwxr-xr-x 3 pi pi   4096 Apr  5 13:24 boot_mail
+drwxr-xr-x 2 pi pi   4096 Apr  9 20:01 kidpi
+drwxr-xr-x 3 pi pi   4096 Apr  9 20:16 pir
+drwxr-xr-x 2 pi pi   4096 Apr  9 22:44 temp
+-rwxr-xr-x 1 pi pi  71523 Mar  6 21:16 newledstring.sh
+-rwxr-xr-x 1 pi pi      0 Mar  7 13:05 WandSoftware.zip~
+-rwxr-xr-x 1 pi pi  25502 Mar  7 14:24 contact_ouch.mp3
+-rwxr-xr-x 1 pi pi 703127 Mar  7 20:42 Project - newledstring_sh_hardware.jpg
+-rwxr-xr-x 1 pi pi  26139 Mar  9 08:13 contact_buzz.mp3
+-rwxr-xr-x 1 pi pi  30548 Mar  9 08:18 contact_tada.mp3
+-rwxr-xr-x 1 pi pi  27619 Mar  9 08:23 contact_boo.mp3
+-rwxr-xr-x 1 pi pi  25419 Mar  9 08:38 contact_zap.mp3
+-rwxr-xr-x 1 pi pi   2432 Mar  9 08:40 contact.sh
+-rw-r--r-- 1 pi pi      0 Apr 10 21:16 filedate.txt
+
+./tests:
+total 76
+-rwxr-xr-x 1 pi pi   255 Mar  5 21:09 input.sh
+-rwxr-xr-x 1 pi pi 71626 Mar  6 22:56 newnewledstring.sh
+
+./wand:
+total 176
+-rwxr-xr-x 1 pi pi   4027 Apr 17  2012 font.h
+-rwxr-xr-x 1 pi pi   5798 Apr 17  2012 Matrix_font.c
+-rwxr-xr-x 1 pi pi    912 Apr 18  2012 Makefile.include
+-rwxr-xr-x 1 pi pi   2312 Apr 18  2012 Matrix_graphics.h
+-rwxr-xr-x 1 pi pi 144193 Apr 18  2012 wand.bin
+-rwxr-xr-x 1 pi pi   6992 Jul 22  2012 wand.c
+-rwxr-xr-x 1 pi pi     54 Mar  7 13:31 Makefile
+
+./Images:
+total 1132
+drwxr-xr-x 2 pi pi   4096 Mar  5 22:30 Examples
+-rwxr-xr-x 1 pi pi 241360 Mar  3 23:36 breadboard template.png
+-rwxr-xr-x 1 pi pi   3033 Mar  3 23:36 Resistor.jpg
+-rwxr-xr-x 1 pi pi 155474 Mar  3 23:36 RasPi GPIOs.png
+-rwxr-xr-x 1 pi pi  47973 Mar  6 23:05 2013-03-06-230556_1184x624_scrot.png
+-rwxr-xr-x 1 pi pi 703127 Mar  7 20:42 Project - newledstring_sh_hardware.jpg
+
+./Images/Examples:
+total 29036
+-rwxr-xr-x 1 pi pi 3574784 Mar  4 22:50 P1070298.JPG
+-rwxr-xr-x 1 pi pi 3389440 Mar  4 22:54 P1070299.JPG
+-rwxr-xr-x 1 pi pi 3439616 Mar  4 23:08 P1070301.JPG
+-rwxr-xr-x 1 pi pi 3935232 Mar  4 23:12 P1070302.JPG
+-rwxr-xr-x 1 pi pi 3207680 Mar  5 21:59 P1070311.JPG
+-rwxr-xr-x 1 pi pi 3075584 Mar  5 23:04 P1070313.JPG
+-rwxr-xr-x 1 pi pi 5283328 Mar  5 23:21 P1070317.JPG
+-rwxr-xr-x 1 pi pi 3815936 Mar  5 23:26 P1070318.JPG
+
+./sevenseg:
+total 52
+-rwxr-xr-x 1 pi pi  1510 Mar 10 12:13 Makefile
+-rwxr-xr-x 1 pi pi  6266 Mar 11 19:21 led.c
+-rwxr-xr-x 1 pi pi  4872 Mar 11 19:21 led.o
+-rwxr-xr-x 1 pi pi  9851 Mar 11 19:21 led
+-rwxr-xr-x 1 pi pi 19060 Mar 11 19:41 word_list.txt
+
+./timelapse:
+total 36
+drwxr-xr-x 2 pi pi 20480 Apr  6 12:44 photos
+-rwxr-xr-x 1 pi pi    29 Apr  5 08:20 file.txt
+-rwxr-xr-x 1 pi pi   945 Apr  6 12:20 timelapse.sh
+
+./timelapse/photos:
+total 0
+
+./boot_mail:
+total 16
+-rwxr-xr-x 1 pi pi 1010 Mar 12 01:31 boot_mail.py
+-rwxr-xr-x 1 pi pi 1784 Apr  5 13:32 mail_attach.py
+-rwxr-xr-x 1 pi pi  297 Apr  6 10:46 daily_photo_email.sh
+
+total 1580
+-rwxr-xr-x 1 pi   pi   283318 Apr  5 13:36 05-04-2013.jpg
+-rwxr-xr-x 1 root root    525 Apr  5 13:51 file.txt
+-rwxr-xr-x 1 pi   pi   291110 Apr  6 08:10 06-04-2013.jpg
+-rwxr-xr-x 1 pi   pi   326895 Apr  7 08:10 07-04-2013.jpg
+-rwxr-xr-x 1 pi   pi   332300 Apr  8 08:10 08-04-2013.jpg
+-rwxr-xr-x 1 pi   pi    47756 Apr  9 08:10 09-04-2013.jpg
+-rw-r--r-- 1 pi   pi   316986 Apr 10 08:10 10-04-2013.jpg
+
+./kidpi:
+total 8
+-rwxr-xr-x 1 pi pi 4402 Apr  9 17:47 kidpi.sh
+
+./pir:
+total 4
+drwxr-xr-x 2 pi pi 4096 Apr  9 20:16 pir
+
+./pir/pir:
+total 24
+-rwxr-xr-x 1 pi pi  518 Apr  9 20:16 pir2.sh
+-rwxr-xr-x 1 pi pi  876 Apr  9 20:16 pir_2.py
+-rwxr-xr-x 1 pi pi  237 Apr  9 20:16 pir_3.py
+-rwxr-xr-x 1 pi pi  426 Apr  9 20:16 pir_4.py
+-rwxr-xr-x 1 pi pi 1350 Apr 10 14:11 pir_1.py
+-rwxr-xr-x 1 pi pi  466 Apr 10 17:14 pir.sh
+
+./temp:
+total 0
